@@ -1,0 +1,26 @@
+{
+  "name": "style_guide",
+  "version": "1.0.0",
+  "description": "各サービスのロゴ一覧とか、ざっくりテーマカラーを一覧できる、雑なページがほしいな",
+  "main": "index.js",
+  "scripts": {
+    "aigis": "aigis run -c ./aigis_config.yml",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "aigis",
+    "styleguide",
+    "node",
+    "css",
+    "scss",
+    "image",
+    "logo",
+    "theme",
+    "color"
+  ],
+  "author": "53able",
+  "license": "ISC",
+  "devDependencies": {
+    "node-aigis": "^1.4.1"
+  }
+}
